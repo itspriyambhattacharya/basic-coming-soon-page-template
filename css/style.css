@@ -94,6 +94,12 @@ header nav ul {
   gap: 20px;
 }
 
+.container .content form div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
 .container .content form button {
   background-color: blueviolet;
   padding: 10px 15px;

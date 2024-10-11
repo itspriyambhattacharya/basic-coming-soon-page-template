@@ -100,6 +100,12 @@ header nav ul {
   gap: 7px;
 }
 
+.container .content form input[type="email"] {
+  padding: 10px 15px;
+  border-radius: 6px;
+  border: 1px solid #333;
+}
+
 .container .content form button {
   background-color: blueviolet;
   padding: 10px 15px;

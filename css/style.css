@@ -86,3 +86,9 @@ header nav ul {
 .container .content p {
   text-align: center;
 }
+
+.container .content form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

@@ -88,7 +88,17 @@ header nav ul {
 }
 
 .container .content form {
+  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+.container .content form button {
+  background-color: blueviolet;
+  padding: 10px 15px;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
 }
